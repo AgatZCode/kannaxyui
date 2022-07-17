@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/Agatdwi_subakti'
+global.sgh = 'https://AgatZCode.github.io/index.php'
+global.sgc = 'https://chat.whatsapp.com/'
+global.sdc = 'https://discord.gg/'
+global.snh = 'https://youtube.com/c/GrowdsAD/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '083121562064'
+global.povo = '083121562064'
+global.pgopay = '083121562064'
+global.ppulsa = '083121562064'
+global.ppulsa2 = '083121562064'
+global.psaweria = 'https://saweria.com/AgatZ'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
+global.nomorbot = '083121562064'
+global.nomorown = '083121562064'
 global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nameown = 'Agat'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['6283121562064', 'Agat', true],
+  ['Private', 'Naila', true],
+  ['62895336008585', 'YUI BOT', true],
+  ['62895336008585', 'YUi', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -121,7 +121,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ Yui - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Agat`
 global.author = '                「 Yui - Chan  あ⁩ 」'
 
 
@@ -191,7 +191,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickauth = `By ©AgatZ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
